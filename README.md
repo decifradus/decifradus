@@ -5,11 +5,9 @@
 
 About me:
 
-- 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning how to code
-- 👯 I’m looking to collaborate on SENAI projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about what I like
+- 🔭 I’m currently working on: my studies
+- 🌱 I’m currently learning: how to code
+- 💬 Ask me about what: I like
 - 📫 How to reach me: camposribeirogabriel264@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
