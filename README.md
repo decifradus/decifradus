@@ -10,6 +10,6 @@ About me:
 - 👯 I’m looking to collaborate on SENAI projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about what I like
-- 📫 How to reach me: camposribeirogabriel@gmail.com
+- 📫 How to reach me: camposribeirogabriel264@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
