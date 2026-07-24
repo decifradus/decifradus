@@ -11,4 +11,4 @@ About me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
 
-<img width="1750" height="800" alt="nyan-cat" src="https://github.com/user-attachments/assets/852d85ac-5db1-4ada-b09a-2cd68bc36531" />
+<img width="1750" height="500" alt="nyan-cat" src="https://github.com/user-attachments/assets/852d85ac-5db1-4ada-b09a-2cd68bc36531" />
