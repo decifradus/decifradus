@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+ms&weight=500&pause=1000&color=3A93F7&width=435&lines=Hi!!+My+name+is+Gabriel+Campos;Welcome+to+my+paradise.txt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+ms&weight=500&pause=1000&color=3A93F7&width=435&lines=Hi!+My+name+is+Gabriel+Campos;Welcome+to+my+paradise!!.txt" alt="Typing SVG" /></a>
 
+<img width="1750" height="800" alt="nyan-cat" src="https://github.com/user-attachments/assets/852d85ac-5db1-4ada-b09a-2cd68bc36531" />
 
 ## Hi there 👋
 
