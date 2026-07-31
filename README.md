@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+ms&weight=500&size=25&pause=1000&color=3A93F7&width=435&lines=Hello!!+My+name+is+Gabriel+Campos;WelcomeToMyParadise.txt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&pause=1000&color=33A1FF&width=435&lines=WelcomeToMyParadise.txt" alt="Typing SVG" /></a>
 
 ## Hi there 👋
 
